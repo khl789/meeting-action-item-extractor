@@ -1,0 +1,39 @@
+{
+  "meeting_id": "IS1007c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted all four investigation and definition tasks.",
+    "The Industrial Designer accepted responsibility for checking kinetic-energy feasibility and separately committed to checking option-price differences.",
+    "The speech-recogniser capability check and vocabulary-definition task had no reliably identified individual owner, so their owners are null."
+  ],
+  "action_items": [
+    {
+      "action": "check with the R&D department whether the kinetic-energy component can provide enough power",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "C/ID: So uh you're right we can uh see in our uh R_ and D_ uh if the kinetic metal is sufficient to provide enough energy.",
+      "confidence": null
+    },
+    {
+      "action": "investigate the cost differences among the LCD, scroll-button, and other design options",
+      "owner": "C/ID",
+      "due_date": "next meeting",
+      "evidence": "C/ID: So for my part I will check the prices the um the prices difference uh of what to use, where to use, and s uh and so on.",
+      "confidence": null
+    },
+    {
+      "action": "check with the R&D department about the speech recogniser's capabilities",
+      "owner": null,
+      "due_date": null,
+      "evidence": "B/UI: Check with the v R_ and D_ department the capability of recogniser.",
+      "confidence": null
+    },
+    {
+      "action": "define the vocabulary set required for the speech recogniser",
+      "owner": null,
+      "due_date": null,
+      "evidence": "B/UI: I think we need to define also a s the set of vocabularies for the speech recogniser",
+      "confidence": null
+    }
+  ]
+}

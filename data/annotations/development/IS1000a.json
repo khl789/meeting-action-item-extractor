@@ -1,0 +1,32 @@
+{
+  "meeting_id": "IS1000a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed that 'work on a design, keep it general' contains an action plus a constraint.",
+    "Following the established annotation policy, next-meeting context alone is not treated as an explicit due date, so all due_date fields are null.",
+    "Human review confirmed all three assignments."
+  ],
+  "action_items": [
+    {
+      "action": "work on a general design",
+      "owner": "C/UI",
+      "due_date": null,
+      "evidence": "B/PM: well, uh, you wor yes, work on a design, keep it general, I mean so w we will be still fle flexible with maybe adding some functions.",
+      "confidence": null
+    },
+    {
+      "action": "work on the technical function design",
+      "owner": "D/ID",
+      "due_date": null,
+      "evidence": "B/PM: So Um you will be working on on technical function design, so",
+      "confidence": null
+    },
+    {
+      "action": "identify the user requirements",
+      "owner": "A/ME",
+      "due_date": null,
+      "evidence": "B/PM: And uh you and you and uh uh uh well, think about requirements, eh?",
+      "confidence": null
+    }
+  ]
+}

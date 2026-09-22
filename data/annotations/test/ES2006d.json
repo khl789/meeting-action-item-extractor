@@ -1,0 +1,32 @@
+{
+  "meeting_id": "ES2006d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review split the explicit final questionnaire and meeting-summary requirement into two separate whole-team tasks.",
+    "Receiving the questionnaire was treated as a trigger rather than a completion deadline.",
+    "Human review also accepted the Project Manager's proposed follow-up to send the production-cost result and colour-cost uncertainty to management."
+  ],
+  "action_items": [
+    {
+      "action": "complete the final project questionnaire when it is sent",
+      "owner": "A/ID + B/ME + C/PM + D/UI",
+      "due_date": null,
+      "evidence": "C/PM: Right, so we have to complete the final questionnaire and meeting summary when they send it.",
+      "confidence": null
+    },
+    {
+      "action": "complete the final meeting summary when it is sent",
+      "owner": "A/ID + B/ME + C/PM + D/UI",
+      "due_date": null,
+      "evidence": "C/PM: Right, so we have to complete the final questionnaire and meeting summary when they send it.",
+      "confidence": null
+    },
+    {
+      "action": "send the production-cost result to management and explain the remaining uncertainty about extra colour cost",
+      "owner": "C/PM",
+      "due_date": null,
+      "evidence": "C/PM: and then I'll take I can send it back to management and say we weren't quite sure about the colour, if that costs extra then we've still got some space for it,",
+      "confidence": null
+    }
+  ]
+}

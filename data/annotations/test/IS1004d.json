@@ -1,0 +1,18 @@
+{
+  "meeting_id": "IS1004d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the agreed follow-up to investigate the target market, including possible street evaluation with young people.",
+    "No individual was assigned, so the owner is null; the phrase 'next time' is retained as the explicit due-date expression.",
+    "In-meeting evaluation, product decisions, and unassigned version-two feature ideas were excluded."
+  ],
+  "action_items": [
+    {
+      "action": "investigate the target market further, including asking young people whether they would want a banana-shaped remote control",
+      "owner": null,
+      "due_date": "next time",
+      "evidence": "B/UI: So but I think that's something we need to to work on next time is really finding out more about the target market.",
+      "confidence": null
+    }
+  ]
+}

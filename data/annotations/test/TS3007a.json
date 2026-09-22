@@ -1,0 +1,32 @@
+{
+  "meeting_id": "TS3007a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted both specialist assignments and the whole-team individual-thinking task.",
+    "The working-design and technical-functions assignments were not given an explicit completion deadline.",
+    "The individual-thinking task was directly tied to combining the results at the next meeting, establishing its due date; the planned next-meeting product-scope discussion was excluded as an agenda item."
+  ],
+  "action_items": [
+    {
+      "action": "review the remote-control working design",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "A/PM: Um the the the Industrial uh Designer has to uh look at the working design.",
+      "confidence": null
+    },
+    {
+      "action": "review the remote-control technical functions",
+      "owner": "B/UI",
+      "due_date": null,
+      "evidence": "A/PM: Uh the User Interface Designer has to look at the technical functions.",
+      "confidence": null
+    },
+    {
+      "action": "think individually about the product requirements that are most important from each participant's perspective",
+      "owner": "A/PM + B/UI + C/ID + D/ME",
+      "due_date": "next meeting",
+      "evidence": "A/PM: each individually i individually uh must think on what's uh at uh his point of view is the most important.",
+      "confidence": null
+    }
+  ]
+}

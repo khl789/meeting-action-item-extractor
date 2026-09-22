@@ -1,0 +1,60 @@
+{
+  "meeting_id": "ES2008b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted all three specialist assignments, the questionnaire and summary, the shared-folder upload request, and the Marketing Expert's conditional promise to email additional age data.",
+    "The ordered instruction to complete the questionnaire and summary and then take lunch was treated as a before-lunch deadline.",
+    "Routine Project Manager documentation work and an unassigned suggestion to investigate battery requirements were excluded."
+  ],
+  "action_items": [
+    {
+      "action": "work on the remote-control components concept",
+      "owner": "B/ID",
+      "due_date": null,
+      "evidence": "A/PM: Um you each have individual actions, I_ um I_D_ Industrial Design you've your components concept, User Interface, the user interface concept, market trend wa watching.",
+      "confidence": null
+    },
+    {
+      "action": "work on the user interface concept",
+      "owner": "C/UI",
+      "due_date": null,
+      "evidence": "A/PM: Um you each have individual actions, I_ um I_D_ Industrial Design you've your components concept, User Interface, the user interface concept, market trend wa watching.",
+      "confidence": null
+    },
+    {
+      "action": "watch and research relevant market trends",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "A/PM: Um you each have individual actions, I_ um I_D_ Industrial Design you've your components concept, User Interface, the user interface concept, market trend wa watching.",
+      "confidence": null
+    },
+    {
+      "action": "complete the project questionnaire",
+      "owner": "A/PM + B/ID + C/UI + D/ME",
+      "due_date": "before lunch",
+      "evidence": "A/PM: Um after the meeting we're gonna each complete a sks um a questionnaire and a summaries summary.",
+      "confidence": null
+    },
+    {
+      "action": "complete the work summary",
+      "owner": "A/PM + B/ID + C/UI + D/ME",
+      "due_date": "before lunch",
+      "evidence": "A/PM: Um after the meeting we're gonna each complete a sks um a questionnaire and a summaries summary.",
+      "confidence": null
+    },
+    {
+      "action": "put their project documentation and slides in the shared folder",
+      "owner": "B/ID + C/UI + D/ME",
+      "due_date": null,
+      "evidence": "A/PM: If everyone could do that as well, that'd be great.",
+      "confidence": null
+    },
+    {
+      "action": "email any additional age-group data to the Project Manager if it becomes available",
+      "owner": "D/ME",
+      "due_date": "next meeting",
+      "evidence": "D/ME: I mean if I get m more numbers, I'll e-mail you before the next meeting in terms of ages.",
+      "confidence": null
+    }
+  ]
+}

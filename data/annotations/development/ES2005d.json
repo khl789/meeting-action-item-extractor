@@ -1,0 +1,10 @@
+{
+  "meeting_id": "ES2005d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review found no eligible follow-up project tasks.",
+    "The project manager's promise to send forgotten meeting minutes was excluded as self-stated routine meeting administration.",
+    "The statement that the product could be launched was excluded as a conclusion about product status with no explicit assignee or execution commitment."
+  ],
+  "action_items": []
+}

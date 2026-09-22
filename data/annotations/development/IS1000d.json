@@ -1,0 +1,19 @@
+{
+  "meeting_id": "IS1000d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review included the explicit collective statement that the product must be practically field-tested.",
+    "No individual participant was assigned to the test, so owner is null.",
+    "No explicit date or time was tied to the test, so due_date is null.",
+    "Other statements in the meeting were product decisions, evaluation conducted during the meeting, or routine meeting administration rather than follow-up tasks."
+  ],
+  "action_items": [
+    {
+      "action": "conduct a practical field test of the remote control",
+      "owner": null,
+      "due_date": null,
+      "evidence": "D/UI: We have to practically test it.",
+      "confidence": null
+    }
+  ]
+}

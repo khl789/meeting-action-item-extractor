@@ -1,0 +1,25 @@
+{
+  "meeting_id": "IS1007d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the collective charger investigation and the designers' material investigation.",
+    "No owner could be resolved for the charger investigation, so its owner is null.",
+    "The surrounding exchange resolves the spongy-material investigation to the User Interface Designer and Industrial Designer; no explicit due date was stated."
+  ],
+  "action_items": [
+    {
+      "action": "investigate charger types, compatibility, and cost further",
+      "owner": null,
+      "due_date": null,
+      "evidence": "B/UI: I think we have to investigate more on that, but",
+      "confidence": null
+    },
+    {
+      "action": "investigate a case material that is both spongy and robust",
+      "owner": "B/UI + C/ID",
+      "due_date": null,
+      "evidence": "D/ME: I think you need to look into the material.",
+      "confidence": null
+    }
+  ]
+}

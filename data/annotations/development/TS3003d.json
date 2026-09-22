@@ -1,0 +1,33 @@
+{
+  "meeting_id": "TS3003d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed the collective commitment to test how users respond to the prototype; no individual owner or deadline was stated.",
+    "Human review confirmed A/PM's commitment to prepare and show the final project presentation in about ten minutes.",
+    "Human review confirmed that B/UI, C/ID, and D/ME would complete another questionnaire while the project manager prepared the presentation; no explicit questionnaire deadline was stated.",
+    "The suggestion to market fashionable covers to younger people as a test was excluded because nobody was assigned and nobody committed to execute it."
+  ],
+  "action_items": [
+    {
+      "action": "test how users respond to the remote control prototype",
+      "owner": null,
+      "due_date": null,
+      "evidence": "C/ID: And uh we'll have to see from testing uh how the users take it.",
+      "confidence": null
+    },
+    {
+      "action": "prepare and show the final project presentation",
+      "owner": "A/PM",
+      "due_date": "in about ten minutes",
+      "evidence": "A/PM: And then I will be back in about ten minutes to show you the final presentation. Summary of the project.",
+      "confidence": null
+    },
+    {
+      "action": "complete another project questionnaire",
+      "owner": "B/UI + C/ID + D/ME",
+      "due_date": null,
+      "evidence": "B/UI: Uh maybe we have to fill uh another questionnaire.",
+      "confidence": null
+    }
+  ]
+}

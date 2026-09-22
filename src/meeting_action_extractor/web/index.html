@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meeting Action-Item Extractor</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">PE6201 · END-OF-COURSE PROJECT</p>
+      <h1>Meeting Action-Item Extractor</h1>
+      <p class="subtitle">Turn meeting transcripts into an evidence-linked review list.</p>
+    </div>
+    <div class="status"><span></span> Local review tool</div>
+  </header>
+
+  <main>
+    <section class="workflow" aria-label="Extraction workflow">
+      <div><b>1</b><span>Paste transcript</span></div>
+      <i></i>
+      <div><b>2</b><span>Run extractor</span></div>
+      <i></i>
+      <div><b>3</b><span>Review evidence</span></div>
+    </section>
+
+    <section class="workspace">
+      <article class="panel input-panel">
+        <div class="panel-head">
+          <div>
+            <p class="label">INPUT</p>
+            <h2>Meeting transcript</h2>
+          </div>
+          <button id="sampleButton" class="text-button" type="button">Restore sample</button>
+        </div>
+        <textarea id="transcript" spellcheck="false" aria-label="Meeting transcript"></textarea>
+        <div class="controls">
+          <label>Method
+            <select id="method">
+              <option value="openrouter">AI extractor · v13</option>
+              <option value="rules">Rule baseline</option>
+            </select>
+          </label>
+          <button id="extractButton" class="primary" type="button">
+            <span>Extract action items</span>
+            <span class="button-arrow">→</span>
+          </button>
+        </div>
+        <p class="privacy">The API key stays on this computer and is never shown in the browser.</p>
+      </article>
+
+      <article class="panel output-panel">
+        <div class="panel-head">
+          <div>
+            <p class="label">OUTPUT</p>
+            <h2>Review queue</h2>
+          </div>
+          <div id="itemCount" class="count">Waiting</div>
+        </div>
+        <div id="emptyState" class="empty-state">
+          <div class="empty-icon">✓</div>
+          <h3>Ready to extract</h3>
+          <p>Confirmed future commitments will appear here with their owner, due date, confidence, and exact evidence.</p>
+        </div>
+        <div id="loadingState" class="loading hidden">
+          <div class="spinner"></div>
+          <h3>Reading the meeting…</h3>
+          <p>The hosted model normally takes several seconds.</p>
+        </div>
+        <div id="results" class="results hidden"></div>
+        <div id="errorState" class="error hidden"></div>
+      </article>
+    </section>
+
+    <section class="guardrail">
+      <strong>Human-in-the-loop:</strong> verify each evidence quotation before using an extracted item.
+      The system does not schedule tasks or assess employee performance.
+    </section>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

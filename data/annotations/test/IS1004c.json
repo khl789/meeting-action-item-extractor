@@ -1,0 +1,39 @@
+{
+  "meeting_id": "IS1004c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the two specialist design assignments, their joint first-prototype task, and the Marketing Expert's product-evaluation assignment.",
+    "The Project Manager explicitly introduced them as work to prepare for the next meeting, so all four tasks use 'next meeting' as the due date.",
+    "Design work performed immediately on the whiteboard during the current meeting was excluded."
+  ],
+  "action_items": [
+    {
+      "action": "work on the look-and-feel design",
+      "owner": "C/ID",
+      "due_date": "next meeting",
+      "evidence": "A/PM: You have to uh work on the look and feel uh design and you have to work on the user interface, in fact you two you have to work together to model the first uh f first prototype.",
+      "confidence": null
+    },
+    {
+      "action": "work on the user interface design",
+      "owner": "B/UI",
+      "due_date": "next meeting",
+      "evidence": "A/PM: You have to uh work on the look and feel uh design and you have to work on the user interface, in fact you two you have to work together to model the first uh f first prototype.",
+      "confidence": null
+    },
+    {
+      "action": "work together to model the first prototype",
+      "owner": "B/UI + C/ID",
+      "due_date": "next meeting",
+      "evidence": "A/PM: You have to uh work on the look and feel uh design and you have to work on the user interface, in fact you two you have to work together to model the first uh f first prototype.",
+      "confidence": null
+    },
+    {
+      "action": "work on the product evaluation",
+      "owner": "D/ME",
+      "due_date": "next meeting",
+      "evidence": "A/PM: Uh Marketing Expert uh have to go to product evaluation.",
+      "confidence": null
+    }
+  ]
+}

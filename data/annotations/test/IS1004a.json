@@ -1,0 +1,32 @@
+{
+  "meeting_id": "IS1004a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted all three role-specific assignments stated at the close of the meeting.",
+    "The Marketing Expert's user-requirements work includes the immediately preceding discussion of willingness to pay and expectations for a 25-euro product.",
+    "The promise that participants would receive information by email was excluded because no sender or separately executable action was stated."
+  ],
+  "action_items": [
+    {
+      "action": "work on the remote-control working design",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "A/PM: So um you have to work on the on the working design, you have to uh work on the technical functions, and uh you have to work on us user requirements specs, alright?",
+      "confidence": null
+    },
+    {
+      "action": "work on the technical functions design",
+      "owner": "B/UI",
+      "due_date": null,
+      "evidence": "A/PM: So um you have to work on the on the working design, you have to uh work on the technical functions, and uh you have to work on us user requirements specs, alright?",
+      "confidence": null
+    },
+    {
+      "action": "work on the user requirements, including willingness to pay and expectations for a 25-euro product",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "A/PM: So um you have to work on the on the working design, you have to uh work on the technical functions, and uh you have to work on us user requirements specs, alright?",
+      "confidence": null
+    }
+  ]
+}

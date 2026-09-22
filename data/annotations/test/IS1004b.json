@@ -1,0 +1,39 @@
+{
+  "meeting_id": "IS1004b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted all three role-specific assignments and the explicit follow-up to investigate the LCD option and report back.",
+    "The Project Manager directly framed these as tasks for the next meeting, so 'next meeting' is recorded as the due date.",
+    "The LCD follow-up's addressee could not be resolved reliably from the transcript, so its owner is null."
+  ],
+  "action_items": [
+    {
+      "action": "work on the component concept",
+      "owner": "C/ID",
+      "due_date": "next meeting",
+      "evidence": "A/PM: Um so you have to work on the component uh concept.",
+      "confidence": null
+    },
+    {
+      "action": "work on the user interface",
+      "owner": "B/UI",
+      "due_date": "next meeting",
+      "evidence": "A/PM: Uh you have to work on user interface, and you have to go through a trend watching.",
+      "confidence": null
+    },
+    {
+      "action": "conduct trend watching",
+      "owner": "D/ME",
+      "due_date": "next meeting",
+      "evidence": "A/PM: Uh you have to work on user interface, and you have to go through a trend watching.",
+      "confidence": null
+    },
+    {
+      "action": "investigate whether to use an LCD and report back",
+      "owner": null,
+      "due_date": "next meeting",
+      "evidence": "A/PM: It is up to you to go through this um uh this way and to to report report me back next meeting.",
+      "confidence": null
+    }
+  ]
+}

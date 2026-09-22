@@ -1,0 +1,26 @@
+{
+  "meeting_id": "ES2002d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review included the marketing expert's accepted responsibility to submit the evaluation criteria.",
+    "Human review included the project manager's substantive commitment to specify the final design in the final report.",
+    "No explicit calendar date or completion time was stated for either item, so both due_date fields are null.",
+    "The project manager's statement about redrawing the design immediately was excluded because it described work being performed in the current meeting."
+  ],
+  "action_items": [
+    {
+      "action": "submit the evaluation criteria",
+      "owner": "C/ME",
+      "due_date": null,
+      "evidence": "B/PM: Okay, great um are you submitting the the um evaluation criteria or am I?",
+      "confidence": null
+    },
+    {
+      "action": "specify the final design in the final report",
+      "owner": "B/PM",
+      "due_date": null,
+      "evidence": "B/PM: And the end result of this meeting has to be a decision on the details of this remote control, like absolute final decision, um and then I'm gonna have to specify the final design in the final report.",
+      "confidence": null
+    }
+  ]
+}

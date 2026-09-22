@@ -1,0 +1,18 @@
+{
+  "action_items": [
+    {
+      "action": "send the revised checklist",
+      "owner": "Daniel",
+      "due_date": "Friday",
+      "evidence": "Daniel: I'll send the revised checklist by Friday.",
+      "confidence": null
+    },
+    {
+      "action": "confirm the venue",
+      "owner": "Priya",
+      "due_date": "tomorrow",
+      "evidence": "Maya: Priya, could you confirm the venue tomorrow?",
+      "confidence": null
+    }
+  ]
+}

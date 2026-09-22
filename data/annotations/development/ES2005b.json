@@ -1,0 +1,34 @@
+{
+  "meeting_id": "ES2005b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed the project manager's commitment to clarify the company slogan requirement with the boss.",
+    "Human review confirmed the assignment for the marketing expert to investigate whether users require teletext.",
+    "Human review counted the explicit instruction to place reports in the project documents folder, but left owner null because the group-level addressee did not support one specific speaker label.",
+    "The project manager's open-ended promise to forward targeted information whenever it arrives was excluded.",
+    "The next meeting being in half an hour was contextual timing, not an explicit completion deadline, so all due_date fields are null."
+  ],
+  "action_items": [
+    {
+      "action": "clarify with the boss how the company slogan must be incorporated into the design",
+      "owner": "C/PM",
+      "due_date": null,
+      "evidence": "C/PM: And I'll see if I can argue with boss about putting the what was it?",
+      "confidence": null
+    },
+    {
+      "action": "find out whether users require a teletext option in the remote control",
+      "owner": "B/ME",
+      "due_date": null,
+      "evidence": "C/PM: some information about that, about um what people, whether people would require um teletext in a remote teletext option in a remote control.",
+      "confidence": null
+    },
+    {
+      "action": "put the reports in the project documents folder",
+      "owner": null,
+      "due_date": null,
+      "evidence": "C/PM: Um can you put all these reports in the project documents folder if they're not already in there as well.",
+      "confidence": null
+    }
+  ]
+}

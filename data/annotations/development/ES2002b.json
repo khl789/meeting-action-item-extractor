@@ -1,0 +1,32 @@
+{
+  "meeting_id": "ES2002b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed three explicit assignments from the project manager to other project roles.",
+    "The thirty-minute work period after lunch is context, not an explicit completion deadline, so all due_date fields are null.",
+    "The project manager's statement about putting the minutes in the project folder was excluded because it was the PM's self-stated meeting-administration action, not a project task assigned to an employee. Employee self-statements of their own future project tasks remain eligible."
+  ],
+  "action_items": [
+    {
+      "action": "work on the components concept",
+      "owner": "A/ID",
+      "due_date": null,
+      "evidence": "B/PM: um for uh our Industrial Designer, you're gonna be thinking about the components concept.",
+      "confidence": null
+    },
+    {
+      "action": "work on the user interface",
+      "owner": "C/UI",
+      "due_date": null,
+      "evidence": "B/PM: Um User Interface Designer gonna be thinking about our user interface, and marketing you're gonna be thinking about trend watching.",
+      "confidence": null
+    },
+    {
+      "action": "work on trend watching",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "B/PM: Um User Interface Designer gonna be thinking about our user interface, and marketing you're gonna be thinking about trend watching.",
+      "confidence": null
+    }
+  ]
+}

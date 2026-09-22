@@ -1,0 +1,46 @@
+{
+  "meeting_id": "ES2008a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the Project Manager's investigation commitment, all three specialist assignments, and the accepted request to email the meeting slides.",
+    "The next meeting being thirty minutes later was not recorded as a due date because none of the assignments was explicitly required by that time.",
+    "Routine Project Manager work to prepare the next agenda and type and circulate meeting minutes was excluded under the established meeting-administration rule."
+  ],
+  "action_items": [
+    {
+      "action": "investigate whether the remote control should be used solely with televisions",
+      "owner": "A/PM",
+      "due_date": null,
+      "evidence": "A/PM: I'll look into that.",
+      "confidence": null
+    },
+    {
+      "action": "work on the remote-control working design",
+      "owner": "B/ID",
+      "due_date": null,
+      "evidence": "A/PM: Um the industrial design, Alima will be doing um the working design.",
+      "confidence": null
+    },
+    {
+      "action": "work on the technical functions design, including button choices and sizes",
+      "owner": "C/UI",
+      "due_date": null,
+      "evidence": "A/PM: Um the User Interface Designer, that's for. Technical functions, I guess like keeping in mind the buttons thing, the size of the buttons.",
+      "confidence": null
+    },
+    {
+      "action": "research user requirements, trends, and consumer needs",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "A/PM: Um user requirements um, so you'll be hearing about different trends, uh about different things that people need, um I guess kind of the same uh discussion that we've been having, we'll get from the actual consum s consumers.",
+      "confidence": null
+    },
+    {
+      "action": "email the meeting slides to the team members",
+      "owner": "A/PM",
+      "due_date": null,
+      "evidence": "A/PM: I'll just attach it to an email.",
+      "confidence": null
+    }
+  ]
+}

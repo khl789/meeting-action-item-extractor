@@ -1,0 +1,32 @@
+{
+  "meeting_id": "TS3007c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the designers' joint prototype assignment, the Marketing Expert's product-evaluation assignment, and the Marketing Expert's explicit legal-consultation commitment.",
+    "The next meeting was stated to begin in thirty minutes, but the tasks were not explicitly required by that time, so no due dates were recorded.",
+    "Unspecified detailed instructions to be sent by email were excluded."
+  ],
+  "action_items": [
+    {
+      "action": "work together on a prototype and draw it on the SMARTboard",
+      "owner": "B/UI + C/ID",
+      "due_date": null,
+      "evidence": "A/PM: Uh idea that you uh the the industrial uh development uh centre and uh user interface uh will work together on a prototype.",
+      "confidence": null
+    },
+    {
+      "action": "work on the product evaluation",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "A/PM: And um, the marketing expert will uh will uh ke he will be keeping busy with the product uh evaluation.",
+      "confidence": null
+    },
+    {
+      "action": "consult a legal adviser about issues related to the parental-control feature",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "D/ME: Ah I have to uh consult my legal advisor about it.",
+      "confidence": null
+    }
+  ]
+}

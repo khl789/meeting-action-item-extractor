@@ -1,0 +1,32 @@
+{
+  "meeting_id": "ES2002a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "These three candidates agree with AMI's abstractive ACTIONS section.",
+    "Human review confirmed that all three candidates are future assignments rather than general plans.",
+    "Human review decided that the next-meeting context is not a sufficiently explicit due date, so all three due_date fields are null."
+  ],
+  "action_items": [
+    {
+      "action": "work on the actual working design of the remote control",
+      "owner": "A/ID",
+      "due_date": null,
+      "evidence": "B/PM: Um so inbetween now and then, um as the industrial designer, you're gonna be working on you know the actual working design of it",
+      "confidence": null
+    },
+    {
+      "action": "work on the remote control's technical functions",
+      "owner": "C/UI",
+      "due_date": null,
+      "evidence": "B/PM: Um for user interface, technical functions, I guess that's you know like what we've been talking about, what it'll actually do.",
+      "confidence": null
+    },
+    {
+      "action": "identify the requirements the remote control must fulfil",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "B/PM: Um and uh marketing executive, you'll be just thinking about what it actually what, you know, what requirements it has to has to fulfil and you'll all get instructions emailed to you, I guess.",
+      "confidence": null
+    }
+  ]
+}

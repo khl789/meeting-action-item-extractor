@@ -1,0 +1,25 @@
+{
+  "meeting_id": "IS1007b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the Industrial Designer's explicit first-person commitments to survey available low-cost components and work with the technical team on a prototype and initial troubleshooting.",
+    "The possible later addition of software functionality after the prototype was excluded as a tentative future idea rather than a firm commitment.",
+    "No explicit due dates were stated."
+  ],
+  "action_items": [
+    {
+      "action": "survey the components available on the market and identify the cheapest suitable options",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "C/ID: So uh mm I'm thin uh I think uh I I'll do a survey about what is uh what is available on the market and what what is the the cheapest possible things we hav we can use.",
+      "confidence": null
+    },
+    {
+      "action": "work with the technical team to build a prototype and begin troubleshooting communication problems",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "C/ID: Then uh I will try with the technical team to to build a prototype and to see uh with uh h how this little box would uh look look like.",
+      "confidence": null
+    }
+  ]
+}

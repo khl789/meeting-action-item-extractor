@@ -1,0 +1,18 @@
+{
+  "meeting_id": "TS3005c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the explicit joint assignment to create a prototype drawing.",
+    "The next meeting was stated immediately before the assignment, but the work was not explicitly required by that time, so no due date is recorded.",
+    "Unspecified individual instructions to be sent later by email were excluded because their task content was not stated in the meeting."
+  ],
+  "action_items": [
+    {
+      "action": "work together on a prototype drawing on a smart board",
+      "owner": "B/UI + C/ID",
+      "due_date": null,
+      "evidence": "A/PM: Um here are the individual actions, and especially notice that uh the Industrial Designer and the User Interface Designer are going to work together on a prototype drawing on a smart board,",
+      "confidence": null
+    }
+  ]
+}

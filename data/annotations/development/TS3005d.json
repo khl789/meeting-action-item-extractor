@@ -1,0 +1,18 @@
+{
+  "meeting_id": "TS3005d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the Project Manager's explicit commitment to write the final report.",
+    "Returning to separate rooms was excluded as a logistical arrangement rather than a substantive project task.",
+    "The tentative suggestion to complete another questionnaire was excluded because it was not a clear assignment or commitment."
+  ],
+  "action_items": [
+    {
+      "action": "write the final project report",
+      "owner": "A/PM",
+      "due_date": null,
+      "evidence": "A/PM: because uh I have to write the final report now.",
+      "confidence": null
+    }
+  ]
+}

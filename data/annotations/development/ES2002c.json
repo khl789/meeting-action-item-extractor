@@ -1,0 +1,20 @@
+{
+  "meeting_id": "ES2002c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed one future prototype-design task.",
+    "The phrase 'the designers' did not support choosing a specific transcript speaker label, so owner is null.",
+    "The next meeting being in thirty minutes is context rather than an explicit completion deadline, so due_date is null.",
+    "An employee saying they would explain complexity and cost later in the current meeting was excluded as a conversational intention.",
+    "The statement that the product needs a good battery was excluded as a design requirement without an explicit assignee or employee commitment."
+  ],
+  "action_items": [
+    {
+      "action": "design a prototype of the remote control using Play-Doh",
+      "owner": null,
+      "due_date": null,
+      "evidence": "B/PM: uh I know that the designers are gonna be working with Play-doh on that.",
+      "confidence": null
+    }
+  ]
+}

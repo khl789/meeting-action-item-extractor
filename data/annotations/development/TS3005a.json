@@ -1,0 +1,31 @@
+{
+  "meeting_id": "TS3005a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed all three assignments, including the corrected Industrial Designer assignment.",
+    "Following the established policy, next-meeting context alone is not treated as an explicit due date."
+  ],
+  "action_items": [
+    {
+      "action": "review the user requirement specification",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "A/PM: Um the Marketing Expert will uh will take a look at the user requirement specification.",
+      "confidence": null
+    },
+    {
+      "action": "develop the technical functions design",
+      "owner": "B/UI",
+      "due_date": null,
+      "evidence": "A/PM: The User Interface Designer will work out the technical functions design.",
+      "confidence": null
+    },
+    {
+      "action": "review the working design",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "C/ID: No, the Industrial Designer will take a look at the working design,",
+      "confidence": null
+    }
+  ]
+}

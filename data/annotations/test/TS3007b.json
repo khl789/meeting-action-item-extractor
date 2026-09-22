@@ -1,0 +1,18 @@
+{
+  "meeting_id": "TS3007b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the explicit whole-team instruction to complete the questionnaire after lunch.",
+    "'After lunch' was treated as a scheduled start period rather than a completion deadline, so due_date is null.",
+    "The unaccepted suggestion that Marketing might investigate a Bluetooth or radio receiver and unspecified tasks to arrive by email were excluded; routine Project Manager minutes were also excluded."
+  ],
+  "action_items": [
+    {
+      "action": "complete the project questionnaire after lunch",
+      "owner": "A/PM + B/UI + C/ID + D/ME",
+      "due_date": null,
+      "evidence": "A/PM: I'm hungry, so do it after lunch.",
+      "confidence": null
+    }
+  ]
+}

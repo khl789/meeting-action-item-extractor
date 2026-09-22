@@ -1,0 +1,21 @@
+{
+  "split_version": "v1",
+  "selection_rule": "Ten complete four-meeting AMI scenario series were selected before held-out evaluation. All a-d meetings from a series stay in one split.",
+  "development_series": ["ES2002", "ES2005", "IS1000", "TS3003", "TS3005"],
+  "test_series": ["ES2006", "ES2008", "IS1004", "IS1007", "TS3007"],
+  "development": [
+    "ES2002a", "ES2002b", "ES2002c", "ES2002d",
+    "ES2005a", "ES2005b", "ES2005c", "ES2005d",
+    "IS1000a", "IS1000b", "IS1000c", "IS1000d",
+    "TS3003a", "TS3003b", "TS3003c", "TS3003d",
+    "TS3005a", "TS3005b", "TS3005c", "TS3005d"
+  ],
+  "test": [
+    "ES2006a", "ES2006b", "ES2006c", "ES2006d",
+    "ES2008a", "ES2008b", "ES2008c", "ES2008d",
+    "IS1004a", "IS1004b", "IS1004c", "IS1004d",
+    "IS1007a", "IS1007b", "IS1007c", "IS1007d",
+    "TS3007a", "TS3007b", "TS3007c", "TS3007d"
+  ],
+  "held_out_status": "selected_not_evaluated"
+}

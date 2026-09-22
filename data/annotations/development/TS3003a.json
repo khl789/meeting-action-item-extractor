@@ -1,0 +1,47 @@
+{
+  "meeting_id": "TS3003a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed three role-specific project assignments for C/ID, B/UI, and D/ME.",
+    "Human review also included two collective follow-up investigations about whether infrared functionality and a battery-status display fit the production-cost limit.",
+    "No individual owner was assigned for the two cost investigations, so their owner fields are null.",
+    "Meeting again in about half an hour was contextual timing, not an explicit completion deadline, so all due_date fields are null."
+  ],
+  "action_items": [
+    {
+      "action": "work on the remote control's working design, components design, and part of the look-and-feel design",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "A/PM: The Industrial Designer is going to work on the working design, uh components design and a bit of the look and feel design.",
+      "confidence": null
+    },
+    {
+      "action": "work on the technical function design, user interface concept, and user interface design",
+      "owner": "B/UI",
+      "due_date": null,
+      "evidence": "A/PM: Uh the User Interface Designer is going to do the technical function design, user interface concept and user interface design.",
+      "confidence": null
+    },
+    {
+      "action": "work on the user requirement specification, trend watching, and product evaluation",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "A/PM: And the marketing expert is doing a little bit of user requirement specification, trend watching and project uh product ev evaluation.",
+      "confidence": null
+    },
+    {
+      "action": "find out whether infrared functionality would exceed the production-cost limit",
+      "owner": null,
+      "due_date": null,
+      "evidence": "A/PM: But I don't know if that will exceed the production costs.",
+      "confidence": null
+    },
+    {
+      "action": "investigate whether a battery-status display would fit the production-cost limit",
+      "owner": null,
+      "due_date": null,
+      "evidence": "D/ME: But they'll also really drag up the production costs, so think we'll have to see about that too.",
+      "confidence": null
+    }
+  ]
+}

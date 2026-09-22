@@ -1,0 +1,40 @@
+{
+  "meeting_id": "TS3003c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed C/ID's specific commitment to ask manufacturing about speech-recognition cost.",
+    "The vague statement that coloured casing cost would require research was excluded because it did not form a sufficiently specific accepted deliverable.",
+    "Human review confirmed the next-meeting task to review the corporate website, with owner null because no individual was assigned.",
+    "Human review confirmed B/UI's continued user-interface design work and the shared next-stage design work by B/UI and C/ID for the next meeting."
+  ],
+  "action_items": [
+    {
+      "action": "ask the manufacturing department about the production cost of speech recognition",
+      "owner": "C/ID",
+      "due_date": null,
+      "evidence": "C/ID: So I'll have to ask the manufacturing department.",
+      "confidence": null
+    },
+    {
+      "action": "review the corporate website for the company's design image",
+      "owner": null,
+      "due_date": "next meeting",
+      "evidence": "A/PM: So check out the corporate website maybe.",
+      "confidence": null
+    },
+    {
+      "action": "continue developing the user interface design",
+      "owner": "B/UI",
+      "due_date": "next meeting",
+      "evidence": "A/PM: The user interface design, it's the same story.",
+      "confidence": null
+    },
+    {
+      "action": "work together on the next-stage remote control design",
+      "owner": "B/UI + C/ID",
+      "due_date": "next meeting",
+      "evidence": "A/PM: So the Industrial Designer and User Interface Designer are going to work together on this one.",
+      "confidence": null
+    }
+  ]
+}

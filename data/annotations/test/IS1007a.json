@@ -1,0 +1,18 @@
+{
+  "meeting_id": "IS1007a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the designers' collective commitment to investigate how programme-content information could be obtained and discuss the findings at the next meeting.",
+    "The earlier statement that Norman and the Industrial Designer would consider the technical points resolves the shared owners as B/UI and C/ID.",
+    "The explicit next-meeting discussion establishes the due date."
+  ],
+  "action_items": [
+    {
+      "action": "investigate how to obtain television programme-content data, gather relevant information, and discuss the findings",
+      "owner": "B/UI + C/ID",
+      "due_date": "next meeting",
+      "evidence": "C/ID: I think for for the technical points we have to to to check how to gather the data from programme or contents and all this stuff",
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "meeting_id": "ES2006c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the three role-specific assignments, the joint prototype task, and the conditional reminder to upload any missing presentation.",
+    "The phrase 'in the meantime' directly linked the first four assignments to the thirty-minute interval before the next meeting, so their due date is recorded as 'next meeting'.",
+    "The presentation reminder had no explicit deadline and an unresolved conditional owner; unspecified extra coach instructions were excluded."
+  ],
+  "action_items": [
+    {
+      "action": "work on the remote-control look-and-feel design",
+      "owner": "A/ID",
+      "due_date": "next meeting",
+      "evidence": "C/PM: In the meantime, the Industrial Designer over here is gonna work on the look and feel design,",
+      "confidence": null
+    },
+    {
+      "action": "work on the user interface design",
+      "owner": "D/UI",
+      "due_date": "next meeting",
+      "evidence": "C/PM: Um the User Interface Designer will work on the user interface design and the Marketing Expert is going to work on product evaluation.",
+      "confidence": null
+    },
+    {
+      "action": "work on the product evaluation",
+      "owner": "B/ME",
+      "due_date": "next meeting",
+      "evidence": "C/PM: Um the User Interface Designer will work on the user interface design and the Marketing Expert is going to work on product evaluation.",
+      "confidence": null
+    },
+    {
+      "action": "develop the prototype together from the agreed instructions using modelling clay",
+      "owner": "A/ID + D/UI",
+      "due_date": "next meeting",
+      "evidence": "C/PM: And as well as that, the two designers are going to work together on our prototype following those instructions that we've just come up with using modelling clay and you will get extra instructions from your personal coach.",
+      "confidence": null
+    },
+    {
+      "action": "put any presentation not yet submitted in the project documents folder",
+      "owner": null,
+      "due_date": null,
+      "evidence": "C/PM: And anyone who hasn't put their their presentation in the project documents folder, it would be good just so in case we have to refer to it.",
+      "confidence": null
+    }
+  ]
+}

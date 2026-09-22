@@ -1,0 +1,53 @@
+{
+  "meeting_id": "ES2006b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted all three role-specific concept-development assignments and the three-person presentation-submission task.",
+    "The questionnaire and summary were recorded as separate whole-team tasks because both actions were explicitly required before lunch.",
+    "Routine Project Manager tasks concerning agendas, minutes, and notification emails were excluded under the established meeting-administration rule."
+  ],
+  "action_items": [
+    {
+      "action": "look into the remote-control components concept",
+      "owner": "A/ID",
+      "due_date": null,
+      "evidence": "C/PM: Um as to where we're going from here, you're going to look at the components concept.",
+      "confidence": null
+    },
+    {
+      "action": "work on the user interface concept",
+      "owner": "D/UI",
+      "due_date": null,
+      "evidence": "C/PM: You'll be looking you'll be looking at the user interface concept,",
+      "confidence": null
+    },
+    {
+      "action": "watch relevant trends, particularly developments in voice recognition",
+      "owner": "B/ME",
+      "due_date": null,
+      "evidence": "C/PM: on something conceptual and you're watching trends to see how we go and surely voice recognition'll fall off the map or something that um we'll keep keep our options op hmm?",
+      "confidence": null
+    },
+    {
+      "action": "put their PowerPoint presentations in the shared project folder",
+      "owner": "A/ID + B/ME + D/UI",
+      "due_date": null,
+      "evidence": "D/UI: Oh so so we'll just put them i there,",
+      "confidence": null
+    },
+    {
+      "action": "complete the project questionnaire",
+      "owner": "A/ID + B/ME + C/PM + D/UI",
+      "due_date": "before lunch",
+      "evidence": "C/PM: so that's fine, w before lunch we just have to complete the questionnaire and some sort of summary.",
+      "confidence": null
+    },
+    {
+      "action": "complete the work summary",
+      "owner": "A/ID + B/ME + C/PM + D/UI",
+      "due_date": "before lunch",
+      "evidence": "C/PM: so that's fine, w before lunch we just have to complete the questionnaire and some sort of summary.",
+      "confidence": null
+    }
+  ]
+}

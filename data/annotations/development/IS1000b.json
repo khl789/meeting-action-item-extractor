@@ -1,0 +1,32 @@
+{
+  "meeting_id": "IS1000b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed three assignments for the industrial designer, user interface designer, and marketing expert.",
+    "The accepted request to email a research webpage was excluded because it was handled immediately during the current meeting.",
+    "The thirty-minute work period after lunch and the following meeting were contextual timing rather than explicit completion deadlines, so all due_date fields are null."
+  ],
+  "action_items": [
+    {
+      "action": "find out which components are needed for the universal remote control",
+      "owner": "D/ID",
+      "due_date": null,
+      "evidence": "B/PM: So given we are going for this uh uh universal type uh m maybe it is good when you try to find out which components you therefore need and y you will try to get more specific uh user interface content",
+      "confidence": null
+    },
+    {
+      "action": "get more specific user interface content for the universal remote control",
+      "owner": "C/UI",
+      "due_date": null,
+      "evidence": "B/PM: So given we are going for this uh uh universal type uh m maybe it is good when you try to find out which components you therefore need and y you will try to get more specific uh user interface content",
+      "confidence": null
+    },
+    {
+      "action": "investigate trends in the universal remote control market",
+      "owner": "A/ME",
+      "due_date": null,
+      "evidence": "B/PM: and uh maybe you can look on on what trends are in this uh in this type of market.",
+      "confidence": null
+    }
+  ]
+}

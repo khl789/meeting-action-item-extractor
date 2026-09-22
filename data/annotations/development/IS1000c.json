@@ -1,0 +1,32 @@
+{
+  "meeting_id": "IS1000c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed a shared assignment for C/UI and D/ID to produce two designs with cost prices for the next meeting.",
+    "Human review confirmed two assignments for A/ME after A/ME explicitly asked what marketing work was needed for the next meeting.",
+    "The phrase 'next meeting' is recorded as the due date because it directly framed these assignments, rather than merely announcing the meeting schedule."
+  ],
+  "action_items": [
+    {
+      "action": "produce two remote control designs, one less advanced and one more advanced, with cost prices",
+      "owner": "C/UI + D/ID",
+      "due_date": "next meeting",
+      "evidence": "B/PM: Let let's say next meeting w you produce two designs, one one one less advanced and one more advanced and with the cost price.",
+      "confidence": null
+    },
+    {
+      "action": "investigate cost information for other devices such as speech recognition",
+      "owner": "A/ME",
+      "due_date": "next meeting",
+      "evidence": "C/UI: Maybe it would be interesting if you could look um for the cost inventories of other devices, if you're using speech recognition or something like that.",
+      "confidence": null
+    },
+    {
+      "action": "start evaluating the team's work and consider how to set up test groups",
+      "owner": "A/ME",
+      "due_date": "next meeting",
+      "evidence": "B/PM: Yes well m maybe uh, I don't know whether that's possible, maybe you can start evaluating uh their work somehow.",
+      "confidence": null
+    }
+  ]
+}

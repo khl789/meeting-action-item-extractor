@@ -1,0 +1,39 @@
+{
+  "meeting_id": "ES2006a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the three role-specific assignments and the explicit whole-team request to think of unusual product features.",
+    "The meeting scheduled thirty minutes later was not recorded as a due date because the speaker did not explicitly say the work had to be completed by then.",
+    "The addressees of the three consecutive role assignments were resolved from the local exchange and stated project roles."
+  ],
+  "action_items": [
+    {
+      "action": "work on the user requirements specification",
+      "owner": "B/ME",
+      "due_date": null,
+      "evidence": "C/PM: and for you it's the user requirements specification,",
+      "confidence": null
+    },
+    {
+      "action": "work on the technical functions design",
+      "owner": "A/ID",
+      "due_date": null,
+      "evidence": "C/PM: you're looking at the technical functions design,",
+      "confidence": null
+    },
+    {
+      "action": "review the working design",
+      "owner": "D/UI",
+      "due_date": null,
+      "evidence": "C/PM: Um we've got another meeting in thirty minutes, so you're you'll be getting specific instructions once you go back to your workspace, but im basically you're looking at the working design,",
+      "confidence": null
+    },
+    {
+      "action": "think of specific unusual features that could be included in the remote control",
+      "owner": "A/ID + B/ME + C/PM + D/UI",
+      "due_date": null,
+      "evidence": "C/PM: I think that's probably something that w it's best if we take away with us, but if we all have a think, when we go away from the meeting, what specific things could be um included in this remote control that that are out of the ordinary.",
+      "confidence": null
+    }
+  ]
+}

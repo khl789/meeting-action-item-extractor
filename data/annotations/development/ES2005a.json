@@ -1,0 +1,31 @@
+{
+  "meeting_id": "ES2005a",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed three explicit assignments from the project manager to the marketing expert, user interface designer, and industrial designer.",
+    "The next meeting being in half an hour is contextual timing, not an explicit completion deadline, so all due_date fields are null."
+  ],
+  "action_items": [
+    {
+      "action": "examine competitors' remote controls and designs",
+      "owner": "B/ME",
+      "due_date": null,
+      "evidence": "C/PM: And you look at competition and design.",
+      "confidence": null
+    },
+    {
+      "action": "research shapes and colours that make the remote control attractive",
+      "owner": "D/UI",
+      "due_date": null,
+      "evidence": "C/PM: Shapes and colours and um basically how to make it attractive.",
+      "confidence": null
+    },
+    {
+      "action": "research how the remote control is made and what materials are available",
+      "owner": "A/ID",
+      "due_date": null,
+      "evidence": "C/PM: Um, if you could maybe come up with sort of shapes and suggested shades or whatever, and you could look into um basically how how it's made I_E_ like how you make it all in one, how what sort of materials are available to you whatever.",
+      "confidence": null
+    }
+  ]
+}

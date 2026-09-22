@@ -1,0 +1,18 @@
+{
+  "meeting_id": "TS3007d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the Project Manager's explicit commitment to finish the final report.",
+    "The Marketing Expert stated that ten minutes remained to finish it and the Project Manager agreed it could be done, so the due date is recorded as 'within ten minutes'.",
+    "Report edits carried out immediately during the current meeting and the in-meeting cost spreadsheet work were excluded as already-performed actions."
+  ],
+  "action_items": [
+    {
+      "action": "finish the final project report",
+      "owner": "A/PM",
+      "due_date": "within ten minutes",
+      "evidence": "A/PM: I'm going to finish my end report.",
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "meeting_id": "ES2005c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed the assignment to build a clay model, with A/ID and D/UI clearly sharing responsibility.",
+    "Human review confirmed B/ME's accepted commitment to design several shapes and conduct a public survey.",
+    "Human review included the accepted proposal to user-test scroll wheels but left owner null because no individual was assigned.",
+    "The accepted request to resend a missing file was excluded because it was being handled immediately during the current meeting.",
+    "The next meeting being in half an hour was contextual timing rather than an explicit completion deadline, so all due_date fields are null."
+  ],
+  "action_items": [
+    {
+      "action": "build a clay model of the remote control",
+      "owner": "A/ID + D/UI",
+      "due_date": null,
+      "evidence": "C/PM: and what I would like you guys to do is work on giving me a model in clay.",
+      "confidence": null
+    },
+    {
+      "action": "design two or three shapes and conduct a public survey",
+      "owner": "B/ME",
+      "due_date": null,
+      "evidence": "B/ME: Or we can do something, we can design two three shapes and we can have a public survey, let the public choose what they want.",
+      "confidence": null
+    },
+    {
+      "action": "conduct user testing with scroll wheels",
+      "owner": null,
+      "due_date": null,
+      "evidence": "A/ID: Okay, well we can do some user test with scroll-wheels, right?",
+      "confidence": null
+    }
+  ]
+}

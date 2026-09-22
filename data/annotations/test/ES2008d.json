@@ -1,0 +1,25 @@
+{
+  "meeting_id": "ES2008d",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the final questionnaire and meeting summary as separate whole-team tasks.",
+    "The questionnaire task includes the explicit instruction to record criticisms of both the process and final result.",
+    "No explicit completion deadline was stated."
+  ],
+  "action_items": [
+    {
+      "action": "complete the final project questionnaire and record criticisms of the process and final result",
+      "owner": "A/PM + B/ID + C/UI + D/ME",
+      "due_date": null,
+      "evidence": "A/PM: Make sure in your questionnaire to put down criticisms of both the process and the um the final results and.",
+      "confidence": null
+    },
+    {
+      "action": "complete the final meeting summary",
+      "owner": "A/PM + B/ID + C/UI + D/ME",
+      "due_date": null,
+      "evidence": "A/PM: Now there's the final questionnaire and meeting summary.",
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "meeting_id": "TS3005b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the Marketing Expert's explicit commitment to post the expected LCD-screen cost information in the project mail folder.",
+    "The task is conditional on receiving the information, but it is a specific one-time deliverable with a clear owner; no explicit due date was stated.",
+    "Routine Project Manager meeting administration and product-design decisions without a future owner commitment were excluded."
+  ],
+  "action_items": [
+    {
+      "action": "post the LCD-screen cost information in the project mail folder when it is received",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "C/ID: or shouldn't we post that in uh our projects mail uh folder.",
+      "confidence": null
+    }
+  ]
+}

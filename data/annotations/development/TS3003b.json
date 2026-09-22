@@ -1,0 +1,33 @@
+{
+  "meeting_id": "TS3003b",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review confirmed the next-meeting assignments for C/ID to develop the components concept and B/UI to develop the user interface concept and perform trend watching.",
+    "Human review confirmed D/ME's commitment to investigate what elderly users want in a new remote control.",
+    "The elderly-user investigation has no explicit deadline, while the two final assignments are explicitly framed as work for the next meeting.",
+    "The remark that touchscreen durability would need further investigation was excluded because it remained a conditional discussion and did not form a clear execution commitment."
+  ],
+  "action_items": [
+    {
+      "action": "develop the components concept",
+      "owner": "C/ID",
+      "due_date": "next meeting",
+      "evidence": "A/PM: Um what we're going to do for the next meeting is the Industrial Designer will do the components concept, User Interface Designer the user interface concept, and the trend-watching.",
+      "confidence": null
+    },
+    {
+      "action": "develop the user interface concept and perform trend watching",
+      "owner": "B/UI",
+      "due_date": "next meeting",
+      "evidence": "A/PM: Um what we're going to do for the next meeting is the Industrial Designer will do the components concept, User Interface Designer the user interface concept, and the trend-watching.",
+      "confidence": null
+    },
+    {
+      "action": "investigate what elderly users want in a new remote control",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "D/ME: Yeah I think maybe we should do some research into what elderly people like to have in a",
+      "confidence": null
+    }
+  ]
+}

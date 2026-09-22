@@ -1,0 +1,46 @@
+{
+  "meeting_id": "ES2008c",
+  "annotation_status": "human_reviewed",
+  "annotation_notes": [
+    "Human review accepted the three specialist assignments, the joint modelling-clay prototype task, and the Industrial Designer's specific follow-up on curved case options.",
+    "The next meeting being thirty minutes later was not recorded as a deadline because the work was not explicitly required by then.",
+    "The Marketing Expert's open-ended conditional offer to relay any further fruit-and-vegetable trend information was excluded."
+  ],
+  "action_items": [
+    {
+      "action": "work on the remote-control look-and-feel design",
+      "owner": "B/ID",
+      "due_date": null,
+      "evidence": "A/PM: Um our next meeting starts in thirty minutes, um you each have things to do, look and feel design, user interface design, product evaluation, and you two are going to work together on a prototype using modelling clay.",
+      "confidence": null
+    },
+    {
+      "action": "work on the user interface design",
+      "owner": "C/UI",
+      "due_date": null,
+      "evidence": "A/PM: Um our next meeting starts in thirty minutes, um you each have things to do, look and feel design, user interface design, product evaluation, and you two are going to work together on a prototype using modelling clay.",
+      "confidence": null
+    },
+    {
+      "action": "work on the product evaluation",
+      "owner": "D/ME",
+      "due_date": null,
+      "evidence": "A/PM: Um our next meeting starts in thirty minutes, um you each have things to do, look and feel design, user interface design, product evaluation, and you two are going to work together on a prototype using modelling clay.",
+      "confidence": null
+    },
+    {
+      "action": "work together on a remote-control prototype using modelling clay",
+      "owner": "B/ID + C/UI",
+      "due_date": null,
+      "evidence": "A/PM: Um our next meeting starts in thirty minutes, um you each have things to do, look and feel design, user interface design, product evaluation, and you two are going to work together on a prototype using modelling clay.",
+      "confidence": null
+    },
+    {
+      "action": "investigate the curved and double-curved case options further and update the team when pictures become available",
+      "owner": "B/ID",
+      "due_date": null,
+      "evidence": "B/ID: I'm not sure, but I'll let you know as soon as I get any pictures.",
+      "confidence": null
+    }
+  ]
+}
