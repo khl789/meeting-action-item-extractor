@@ -1,3 +1,5 @@
+"""Test local configuration loading without exposing credentials."""
+
 import os
 import tempfile
 import unittest

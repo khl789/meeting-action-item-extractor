@@ -1,3 +1,5 @@
+"""Define validated data models and JSON conversion helpers for action items."""
+
 from dataclasses import asdict, dataclass
 from typing import Any, Dict, List, Optional
 

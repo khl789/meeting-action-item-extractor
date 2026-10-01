@@ -1,3 +1,5 @@
+"""Test browser-demo assets and extraction request handling."""
+
 import unittest
 
 from meeting_action_extractor.webapp import STATIC_DIR, extract_payload

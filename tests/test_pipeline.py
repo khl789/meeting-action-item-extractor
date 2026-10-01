@@ -1,3 +1,5 @@
+"""Test parsing, extraction, validation, matching, and evaluation as one pipeline."""
+
 import json
 import unittest
 from pathlib import Path

@@ -1,3 +1,5 @@
+"""Convert AMI XML annotations into ordered, speaker-labelled transcripts."""
+
 import json
 import re
 import xml.etree.ElementTree as ET

@@ -2,6 +2,34 @@
 
 This PE6201 project builds and evaluates a transparent system that extracts confirmed action items from existing workplace meeting transcripts. Each output contains an action, owner, due date, and supporting evidence. Missing fields are returned as `null` rather than guessed.
 
+## Product overview
+
+### Persona
+The intended user is a project manager who reviews meeting transcripts to identify confirmed follow-up tasks and check who is responsible for them.
+
+### Input
+A plain-text meeting transcript with speaker-labelled lines, such as `Daniel: I'll send the revised checklist by Friday.`
+
+### Output
+Structured JSON containing each extracted action, its owner, due date, and supporting evidence quote. Missing owners or due dates are represented as `null`. The local browser interface presents the results for human review before use.
+
+### Product architecture
+
+```mermaid
+flowchart LR
+    A[Speaker-labelled meeting transcript] --> B[Transcript parser]
+    B --> C{Extraction method}
+    C --> D[Rule-based baseline]
+    C --> E[Hosted LLM through OpenRouter]
+    D --> F[Schema and evidence validation]
+    E --> F
+    F --> G[Validated action-item JSON]
+    G --> H[Local review interface]
+    H --> I[Project manager review]
+```
+
+The parser prepares the transcript for either the reproducible rule-based baseline or the hosted language model. The validation layer checks the output structure and confirms that every evidence quotation occurs in the source transcript. The project manager reviews the validated results before using them.
+
 ## Scope
 
 The project accepts text transcripts as input. It does not record meetings, perform speech-to-text, summarize meetings, schedule tasks, or act autonomously. A project manager reviews every extracted item before using it.
@@ -55,6 +83,8 @@ The primary evaluation unit is the action item, not the meeting transcript. The 
 
 Detection uses a frozen one-to-one matcher. Text is lowercased and reduced to unique alphanumeric tokens. For every gold/prediction pair, the matcher calculates token-set Jaccard similarity for (1) the action text and (2) the combined action-and-evidence text, then keeps the higher score. Candidate pairs scoring at least 0.30 are greedily matched from highest to lowest score, with each gold and predicted item used at most once. Owner and due-date values do not determine a detection match; they are scored separately on matched items so that an owner error is not counted twice.
 
+See [`docs/evaluation-guide.md`](docs/evaluation-guide.md) for metric definitions, reproduction instructions, safeguards, and evaluation limitations.
+
 ## Data protocol
 
 - Use AMI scenario-meeting transcripts under their applicable licence.
@@ -86,6 +116,7 @@ For development labels, keep manually verified JSON under `data/annotations/deve
 
 ```text
 data/sample/          Synthetic smoke-test transcript and gold labels
+data/README.md        Dataset, split, annotation, and limitation notes
 docs/                 Annotation and experiment protocols
 src/                  Extractors, validation, evaluation, and CLI
 tests/                Automated tests
@@ -100,6 +131,20 @@ Record the Python version, model identifier, prompt version, decoding parameters
 
 The final v13 system was selected using only the development set and was evaluated once on 20 held-out test meetings containing 66 gold action items (`n = 66` for the primary action-item evaluation).
 
+### Targeted and achieved metrics
+
+| Metric | Target or purpose | Held-out result |
+|---|---|---:|
+| Detection F1 | 0.80 | 0.672 |
+| Precision | Measure false-positive control | 0.732 |
+| Recall | Measure missed action items | 0.621 |
+| Owner accuracy | Measure owner identification on matched items | 0.537 |
+| Due-date accuracy | Measure deadline identification on matched items | 0.707 |
+| Evidence support | Measure whether predictions retain source support | 0.893 |
+| Average latency | Report operational speed | 10.77 seconds per meeting |
+| API cost | Report operating cost | USD 0.00387 per meeting |
+
+The pre-defined detection F1 target of 0.80 was not reached. The results therefore support use as a human-reviewed decision-support tool rather than autonomous task creation.
 | Method | Precision | Recall | F1 | Owner accuracy | Due-date accuracy | Evidence support |
 |---|---:|---:|---:|---:|---:|---:|
 | v13 LLM extractor | 0.732 | 0.621 | 0.672 | 0.537 | 0.707 | 0.893 |

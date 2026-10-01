@@ -1,3 +1,5 @@
+"""Test conversion of representative AMI XML annotations."""
+
 import tempfile
 import unittest
 from pathlib import Path

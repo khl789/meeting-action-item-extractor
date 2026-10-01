@@ -1,3 +1,5 @@
+"""Parse speaker-labelled text transcripts into ordered utterance records."""
+
 import re
 from dataclasses import dataclass
 from pathlib import Path

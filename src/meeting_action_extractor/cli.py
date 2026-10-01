@@ -1,3 +1,5 @@
+"""Define commands for extraction, evaluation, configuration, import, and demo serving."""
+
 import argparse
 import json
 import os

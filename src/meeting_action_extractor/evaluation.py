@@ -1,3 +1,5 @@
+"""Match predicted action items to gold labels and calculate evaluation metrics."""
+
 import re
 from typing import Any, Dict, Iterable, List, Sequence, Tuple
 

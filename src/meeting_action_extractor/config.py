@@ -1,3 +1,5 @@
+"""Load local configuration and store OpenRouter credentials outside version control."""
+
 import getpass
 import os
 from pathlib import Path

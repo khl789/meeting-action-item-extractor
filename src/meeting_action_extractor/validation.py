@@ -1,3 +1,5 @@
+"""Check whether action-item evidence and optional fields are supported or abstained."""
+
 from typing import Any, Dict, List
 
 from .models import ActionItem

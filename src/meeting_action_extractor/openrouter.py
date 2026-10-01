@@ -1,3 +1,5 @@
+"""Call the hosted language model and convert its structured response into action items."""
+
 import json
 import os
 import time

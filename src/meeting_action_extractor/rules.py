@@ -1,3 +1,5 @@
+"""Provide the deterministic rule-based extractor used as the comparison baseline."""
+
 import re
 from dataclasses import replace
 from typing import List, Optional

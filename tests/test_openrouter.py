@@ -1,3 +1,5 @@
+"""Test the frozen hosted-model prompt and its task-definition safeguards."""
+
 import unittest
 
 from meeting_action_extractor.openrouter import PROMPT_VERSION, SYSTEM_PROMPT

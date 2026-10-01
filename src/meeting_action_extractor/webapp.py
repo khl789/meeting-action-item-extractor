@@ -1,3 +1,5 @@
+"""Serve the local browser demo and connect review requests to the extractors."""
+
 import json
 import mimetypes
 import threading
